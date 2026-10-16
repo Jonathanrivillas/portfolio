@@ -1,0 +1,18 @@
+[
+  {
+    "category": { "es": "Backend", "en": "Backend" },
+    "items": ["Python", "FastAPI", "Django"]
+  },
+  {
+    "category": { "es": "Frontend", "en": "Frontend" },
+    "items": ["React", "TypeScript", "Angular"]
+  },
+  {
+    "category": { "es": "Bases de datos", "en": "Databases" },
+    "items": ["PostgreSQL", "MySQL"]
+  },
+  {
+    "category": { "es": "Herramientas", "en": "Tools" },
+    "items": ["Git", "Docker"]
+  }
+]
